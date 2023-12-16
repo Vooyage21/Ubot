@@ -1,5 +1,6 @@
 # CatUserbot
-
+DEPLOY HEROKU
+https://dashboard.heroku.com/new-app?template=https://github.com/Vooyage21/Ubot.git
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://graph.org/file/4860c8e1a5a56d0616b79.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
